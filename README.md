@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @scottdixon-github
+- 👋 Hi, I’m @scottdixon-github, creator, entrepraneur, code wrangler and lover of history...  
 - 👀 I’m interested in building music composition applications...
-- 🌱 I’m currently learning C++ Java HTML CSS Rust
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning C++ Java HTML CSS Rust  
+- 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me scott.dixon@snhu.edu
 
 
